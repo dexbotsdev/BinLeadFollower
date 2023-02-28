@@ -1,0 +1,14 @@
+{
+    "apiKey": "",
+    "secretKey": "",
+    "encryptedUid": "391C2981F65164BECCB630D3462C5813",
+    "tradeType": "PERPETUAL",
+    "delay": 5000,
+    "fundsPerTrade": 100,
+    "numberOfTakeProfits": 2,
+    "leverage": 100,
+    "closePositionAfterXMinutes": 300,
+    "maximumNumberOfOpenPositions": 5,
+    "cancelTrade": 60,
+    "blacklistCoins": []
+}
